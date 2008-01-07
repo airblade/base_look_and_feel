@@ -1,0 +1,66 @@
+/* Copyright 2008 AirBlade Software Ltd.
+ * http://airbladesoftware.com
+ *
+ * Fluid 2 column layout.
+ */
+body {
+  margin: 0;
+  padding: 0;
+  font-size: small;
+  font-family: Verdana, sans-serif;
+  background: #fff;
+}
+ul {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+li {
+}
+#wrapper {
+  min-width: 500px;
+  max-width: 1400px;
+}
+#header {
+  border-bottom: 1px solid #eee;
+}
+#header h1 {
+  margin: 0;
+  padding: 25px;
+  font-family: Georgia, serif;
+  font-size: 150%;
+}
+#content {
+  float: left;
+  width: 70%;
+  font-size: 95%;
+  line-height: 1.5em;
+}
+#content .gutter {
+  padding: 25px;
+}
+#content h2 {
+  margin: 0 0 1em 0;
+  padding: 0;
+  font-family: Georgia, serif;
+  font-size: 150%;
+  font-weight: normal;
+}
+#sidebar {
+  float: right;
+  width: 30%;
+  background: #eee;
+}
+#sidebar .gutter {
+  padding: 15px;
+}
+#footer {
+  clear: both;
+  border-top: 1px solid #eee;
+}
+#footer p {
+  margin: 0;
+  padding: 15px;
+  font-size: 85%;
+  color: #333;
+}

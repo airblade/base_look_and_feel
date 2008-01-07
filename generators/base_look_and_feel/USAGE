@@ -1,0 +1,9 @@
+Description:
+    Generates an application layout and stylesheet to get your app looking reasonable quickly.
+
+Example:
+    ./script/generate base_look_and_feel
+
+    This will create:
+        app/views/layouts/application.html.erb
+        public/stylesheets/application.css

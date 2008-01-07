@@ -1,0 +1,14 @@
+BaseLookAndFeel
+===============
+
+Generates a layout (application.html.erb) and stylesheet (application.css) that look respectable.  These are intended to be a good, semantic base on which to build your application-specific look and feel.
+
+
+TO DO
+=====
+Flag to generator for (fluid|elastic|fixed-width) CSS.
+Flag to generator for (centered|left-aligned) CSS.
+Flag to generator for (ERB|HAML) layout.
+
+
+Copyright (c) 2008 Andrew Stewart, released under the MIT license
