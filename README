@@ -6,6 +6,8 @@ Generates a layout (application.html.erb) and stylesheet (application.css) that 
 
 TO DO
 =====
+Add form CSS.  (Cf. [AirBuddFormBuilder](http://opensource.airbladesoftware.com/trunk/plugins/air_budd_form_builder/).)
+Add form error CSS.
 Flag to generator for (fluid|elastic|fixed-width) CSS.
 Flag to generator for (centered|left-aligned) CSS.
 Flag to generator for (ERB|HAML) layout.

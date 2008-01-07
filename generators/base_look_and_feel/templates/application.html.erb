@@ -11,6 +11,9 @@
       </div>
       <div id="content">
         <div class="gutter">
+          <% flash.each do |key, value| -%>
+          <div class="flash <%= key %>"><%= value %></div>
+          <% end -%>
           <%= yield :layout %>
         </div>
       </div>

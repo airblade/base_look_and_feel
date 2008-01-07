@@ -39,6 +39,15 @@ li {
 #content .gutter {
   padding: 25px;
 }
+#content .flash {
+  text-align: center;
+}
+#content .info {
+  color: green;
+}
+#content .warn {
+  color: red;
+}
 #content h2 {
   margin: 0 0 1em 0;
   padding: 0;
