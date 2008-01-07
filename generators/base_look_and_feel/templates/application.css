@@ -17,6 +17,12 @@ ul {
 }
 li {
 }
+label {
+  display: block;
+}
+.inline {
+  display: inline;
+}
 #wrapper {
   min-width: 500px;
   max-width: 1400px;
