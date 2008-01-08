@@ -8,9 +8,11 @@ TO DO
 =====
 Add form CSS.  (Cf. [AirBuddFormBuilder](http://opensource.airbladesoftware.com/trunk/plugins/air_budd_form_builder/).)
 Add form error CSS.
+Flag to generator for (1|2|3) column layout and CSS.
 Flag to generator for (fluid|elastic|fixed-width) CSS.
 Flag to generator for (centered|left-aligned) CSS.
 Flag to generator for (ERB|HAML) layout.
+Background images for faux columns in layout.
 
 
 Copyright (c) 2008 Andrew Stewart, released under the MIT license
