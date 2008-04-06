@@ -9,7 +9,7 @@ class BaseLookAndFeelGenerator < Rails::Generator::Base
       
       m.directory 'public/images/icons'
       %w( arrow_undo cross error exclamation pencil tick ).each do |icon|
-        m.file "#{icon}.png", "public/images/icons/#{icon.png}", :collision => :ask
+        m.file "#{icon}.png", "public/images/icons/#{icon}.png", :collision => :ask
       end
     end
   end
