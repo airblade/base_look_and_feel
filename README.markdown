@@ -1,13 +1,13 @@
 BaseLookAndFeel
 ===============
 
-Generates a layout (application.html.erb) and stylesheet (application.css) that look respectable.  These are intended to be a good, semantic base on which to build your application-specific look and feel.
+Generates a layout (`application.html.erb`) and stylesheet (`application.css`) that look respectable.  These are intended to be a good, semantic base on which to build your application-specific look and feel.
 
-The CSS uses a few icons and these are copies to your /public/images/icons/ directory.
+The CSS uses a few icons and these are copies to your `/public/images/icons/` directory.
 
-This plugin works well with the AirBuddFormBuilder plugin[1] which generates forms as recommended by Andy Budd[2] and Kevin Hale[3].
+This plugin works well with the [AirBuddFormBuilder plugin][1] which generates forms as recommended by [Andy Budd][2] and [Kevin Hale][3].
 
-[1] http://opensource.airbladesoftware.com/trunk/plugins/air_budd_form_builder/
+[1] http://github.com/airblade/air_budd_form_builder/tree/master
 [2] http://www.cssmastery.com
 [3] Wufoo form buttons and links:
     http://particletree.com/features/rediscovering-the-button-element/
